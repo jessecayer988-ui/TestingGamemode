@@ -1,8 +1,0 @@
-"testing_gamemode"
-{
-    "base"      "sandbox"
-    "title"     "Testing Gamemode"
-    "maps"      "*"
-    "menusystem" "1"
-    "workshopid" "0"
-}
